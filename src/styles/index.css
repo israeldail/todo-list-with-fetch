@@ -1,13 +1,6 @@
 body{
     background-color: lightblue;
     font-family: sans-serif;
-}
-
-#todo{
-    display: block;
     text-align: center;
 }
 
-ul {
-    list-style: none;
-}
